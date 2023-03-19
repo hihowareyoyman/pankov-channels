@@ -1,0 +1,26 @@
+{
+  "name": "pankov-channels",
+  "version": "1.0.0",
+  "main": "labview.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node labview.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hihowareyoyman/pankov-channels.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hihowareyoyman/pankov-channels/issues"
+  },
+  "homepage": "https://github.com/hihowareyoyman/pankov-channels#readme",
+  "description": "",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}
